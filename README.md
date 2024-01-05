@@ -1,4 +1,4 @@
-### Olá sou Otavio ravagnani, sou estudante de programação 👋
+### Olá sou Otavio ravagnani 👋
 
 <div align="center">
   <a href="https://github.com/OtavioRavagnani">
