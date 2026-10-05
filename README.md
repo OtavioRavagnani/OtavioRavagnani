@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/OtavioRavagnani">
-    <img width="880px" height="200px" style="margin-bottom: 12px;" src="https://github-readme-stats.vercel.app/api?username=OtavioRavagnani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
-    <img width="880px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioRavagnani&layout=compact&langs_count=7&theme=dark"/>
+    <img width="680px" height="200px" style="margin-bottom: 12px;" src="https://github-readme-stats.vercel.app/api?username=OtavioRavagnani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
+    <img width="680px" height="265px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioRavagnani&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
